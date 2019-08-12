@@ -1,13 +1,3 @@
-Bot
-
-https://repl.it/talk/learn/Discordpy-Rewrite-Tutorial-using-commands-extension/10690
-https://gist.github.com/HarukiGrande/f129abfb9259a00eafacce50d3eff84c
-https://discordpy.readthedocs.io/en/latest/ext/commands/commands.html
-https://issuehunt.io/blog/How-to-write-a-Discord-bot-in-Python-5bb1f0e3c556c5005573c508
-https://discordpy.readthedocs.io/en/latest/ext/commands/commands.html
-https://discordpy.readthedocs.io/en/latest/api.html#discord-api-events
-https://discordpy.readthedocs.io/en/latest/intro.html#installing
-
 Neural Network
 
 https://www.python-course.eu/neural_networks_with_python_numpy.php
